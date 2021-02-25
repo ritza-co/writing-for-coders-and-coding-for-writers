@@ -15,6 +15,8 @@ Ritza's *Introduction to Technical Writing* is a four week intensive course. The
 - Write a 2000 word retrospective
 
 ## Week 2: tools of the trade
+- More concepts from on writing well
+- Punctuation from Eats, Shoots, and Leaves
 - What is markdown?
 - What is GitHub?
 - What is repl.it?
