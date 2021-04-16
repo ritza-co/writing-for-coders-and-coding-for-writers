@@ -34,3 +34,9 @@ Collaborative writing is hard - people work on different versions and email fina
 You will start using git for your writing, including doing pull requests, branches, and forks, while continuing to work through Python.
 
 Exercise: Write a tutorial on something you found confusing.
+
+## Week 3: 
+...
+
+## Week 4:
+...
