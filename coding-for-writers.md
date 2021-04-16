@@ -1,5 +1,5 @@
 
-# Coding for writers
+# Learn to Code for Writers - A four week introductory course
 
 If you're a technical writer, learning how to code is likely single most valuable thing you can do. Learning how to code will allow you to 
 
