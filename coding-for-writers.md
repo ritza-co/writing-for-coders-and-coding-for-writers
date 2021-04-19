@@ -3,7 +3,7 @@
 
 If you're a technical writer, learning how to code is likely single most valuable thing you can do. Learning how to code will allow you to 
 
-* Expand the topics you write about - writing programming tutorials or other content aimed at developers is among the most in-demand kind of writing write now
+* Expand the topics you write about - writing programming tutorials or other content aimed at developers is among the most in-demand kind of writing right now
 * Eliminate repetitive work - if you've ever had to change the same thing across many files, or check through dozens of web pages, you'll know how tedious it can be. By learning to code, you can build your own scripts and bots to help you with anything repetitive.
 * Communicate better with developers - even if you don't need to code directly, being able to understand what code samples do will let you understand the surrounding content better, and you'll find it easier to talk to developers about what tools are and how they work.
 
