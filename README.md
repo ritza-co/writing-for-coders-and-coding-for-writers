@@ -7,3 +7,5 @@ This is course with two tracks.
 
 The tracks are run in parallel and share weekly meetings. You will get guidance from our team, and you will also assist people in the other track who are learning what you already have expertise in.
 
+[Join our Slack community](https://join.slack.com/t/ritzacommunity/shared_invite/zt-tbztqr36-tVa8265sZUf6kxwurc69yQ) for more up-to-date information and to find the next cohort.
+
