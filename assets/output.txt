@@ -1,0 +1,9 @@
+1 While a program is running, its data is stored in random 
+2 access memory (RAM). RAM is fast and inexpensive, but it is 
+3 also volatile, which means that when the program ends, or the 
+4 computer shuts down, snake data in RAM disappears. To make data 
+5 available the next time the computer is turned on and the 
+6 program is started, snake it has to be written to a non-volatile 
+7 storage medium, such a hard drive, usb drive, or CD-RW.
+8 
+9 

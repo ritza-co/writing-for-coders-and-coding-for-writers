@@ -1,0 +1,9 @@
+While a program is running, its data is stored in random 
+access memory (RAM). RAM is fast and inexpensive, but it is 
+also volatile, which means that when the program ends, or the 
+computer shuts down, snake data in RAM disappears. To make data 
+available the next time the computer is turned on and the 
+program is started, snake it has to be written to a non-volatile 
+storage medium, such a hard drive, usb drive, or CD-RW.
+
+
